@@ -1,4 +1,14 @@
 I once saw a cat
 I thought it was a beautiful hat
+<<<<<<< HEAD
 Turned out, that cat was real fat
 Big cat
+=======
+Turned out, that cataa was real fat
+
+
+Cat, cat, cat
+
+-pl
+
+>>>>>>> initials
